@@ -1,0 +1,30 @@
+html, body {
+    background-color: #ccc;
+    margin: 0;
+}
+
+
+.btn_next {
+    /* background-color: #e63946; */
+    background-color: #198754;
+    border-radius: 12px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    height: 60px;
+    margin: auto;
+    width: 180px;
+    cursor: pointer;
+}
+
+.btn_new {
+    background-color: #e63946;
+    border-radius: 12px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    height: 60px;
+    margin: auto;
+    width: 180px;
+    cursor: pointer;
+}
